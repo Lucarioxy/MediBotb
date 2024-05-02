@@ -1,0 +1,15 @@
+python-dotenv
+
+fastapi
+uvicorn
+pydantic
+
+pymongo
+
+langchain
+langchain-pinecone
+langchain-community
+lanchain-groq
+langchain-text-splitters
+
+llama-parse
